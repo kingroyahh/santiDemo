@@ -40,7 +40,7 @@ public class CreateProtectMask : MonoBehaviour
             {
                 transform.localScale = m_PreLocalScale;
                 m_ForceCode.m_Radius = m_PreRadius;
-                m_ChangeTime = 1f;
+                m_ChangeTime = 3f;
                 isChangeScale = false;
             }
         }
